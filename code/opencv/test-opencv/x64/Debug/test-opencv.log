@@ -1,0 +1,35 @@
+﻿  test-opencv.cpp
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(127,43): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(134,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(135,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(136,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(137,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(161,61): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(161,61): warning C4244:         with
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(161,61): warning C4244:         [
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(161,61): warning C4244:             _Tp=float
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(161,61): warning C4244:         ]
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(161,40): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(161,40): warning C4244:         with
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(161,40): warning C4244:         [
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(161,40): warning C4244:             _Tp=float
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(161,40): warning C4244:         ]
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(197,52): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(197,52): warning C4244:         with
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(197,52): warning C4244:         [
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(197,52): warning C4244:             _Tp=double
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(197,52): warning C4244:         ]
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(197,52): warning C4244:         and
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(197,52): warning C4244:         [
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(197,52): warning C4244:             _Tp=float
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(197,52): warning C4244:         ]
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(196,52): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(196,52): warning C4244:         with
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(196,52): warning C4244:         [
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(196,52): warning C4244:             _Tp=double
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(196,52): warning C4244:         ]
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(196,52): warning C4244:         and
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(196,52): warning C4244:         [
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(196,52): warning C4244:             _Tp=float
+D:\common\vs\test\opencv\test-opencv\test-opencv.cpp(196,52): warning C4244:         ]
+  test-opencv.vcxproj -> D:\common\vs\test\opencv\x64\Debug\test-opencv.exe
